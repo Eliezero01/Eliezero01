@@ -22,12 +22,11 @@ Sou desenvolvedor e gosto de transformar ideias em código, aprender novas tecno
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eliezero01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Eliezero01&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliezero01&layout=compact&langs_count=8&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliezero01&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
-
 ## 📌 Projetos em destaque
 
 > 🚧 Em breve, novos projetos por aqui...
