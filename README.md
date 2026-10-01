@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Eliezero!
 
-<!--
-**Eliezero01/Eliezero01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor | ☕ Amante de café | 🚀 Sempre construindo alguma coisa
 
-Here are some ideas to get you started:
+Sou desenvolvedor e gosto de transformar ideias em código, aprender novas tecnologias e criar projetos que resolvam problemas reais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+- 🔭 Atualmente trabalhando em projetos pessoais e explorando novas ideias
+- 🌱 Sempre aprendendo e aprimorando minhas habilidades
+- 💡 Interessado em tecnologia, desenvolvimento de software e resolução de problemas
+- 🛠️ Gosto de criar coisas e entender como elas funcionam
+- ☕ Movido a café e curiosidade
+
+## 🧰 Tecnologias e ferramentas
+
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,git,github,vscode" />
+</div>
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eliezero01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliezero01&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+## 📌 Projetos em destaque
+
+> 🚧 Em breve, novos projetos por aqui...
+
+## 🤝 Vamos conversar!
+
+Se quiser trocar uma ideia sobre tecnologia, colaborar em algum projeto
+ou simplesmente conversar sobre programação, fique à vontade para entrar em contato.
+
+**Codar. Aprender. Criar. Repetir. 🚀**
+
