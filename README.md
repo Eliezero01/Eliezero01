@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Eliezero01!
 
-💻 Desenvolvedor | ☕ Amante de café | 🚀 Sempre construindo alguma coisa
+💻 Desenvolvedor |֎🇦🇮| 🚀 Sempre construindo alguma coisa
 
 Sou desenvolvedor e gosto de transformar ideias em código, aprender novas tecnologias e criar projetos que resolvam problemas reais.
 
@@ -15,7 +15,7 @@ Sou desenvolvedor e gosto de transformar ideias em código, aprender novas tecno
 ## 🧰 Tecnologias e ferramentas
 
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
 </div>
 
 ## 📊 Estatísticas do GitHub
