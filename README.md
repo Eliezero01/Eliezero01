@@ -15,7 +15,7 @@ Sou desenvolvedor e gosto de transformar ideias em código, aprender novas tecno
 ## 🧰 Tecnologias e ferramentas
 
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,Kotlin,python,git,github,vscode" />
 </div>
 
 ## 📊 Estatísticas do GitHub
