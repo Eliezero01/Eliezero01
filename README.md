@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Eliezero01!
+# 👋 Olá, eu sou o Eliezer!
 
 💻 Desenvolvedor |֎🇦🇮| 🚀 Sempre construindo alguma coisa
 
