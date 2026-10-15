@@ -8,8 +8,8 @@ Sou desenvolvedor e gosto de transformar ideias em código, aprender novas tecno
 
 - 🔭 Atualmente trabalhando em projetos pessoais e explorando novas ideias
 - 🌱 Sempre aprendendo e aprimorando minhas habilidades
-- 💡 Interessado em tecnologia, desenvolvimento de software e resolução de problemas
-- 🛠️ Gosto de criar coisas e entender como elas funcionam
+- 💡 Interessado em tecnologia, 
+- 🛠️ Gosto de criar coisas 
 - ☕ Movido a café e curiosidade
 
 ## 🧰 Tecnologias e ferramentas
