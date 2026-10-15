@@ -38,3 +38,8 @@ ou simplesmente conversar sobre programação, fique à vontade para entrar em c
 
 **Codar. Aprender. Criar. Repetir. 🚀**
 
+<a href="https://instagram.com/eliezer91gigachad" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+
